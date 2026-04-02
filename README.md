@@ -25,6 +25,25 @@ This project is a voice-controlled AI assistant that enables hands-free interact
 - Multilingual support
 - Advanced AI models
 - Mobile integration
+## 📸 Screenshots
+
+### Excel Opening
+![Excel](screenshots/excel.png)
+
+### PowerPoint Opening
+![PowerPoint](screenshots/powerpoint.png)
+
+### Gmail Access
+![Gmail](screenshots/gmail.png)
+
+### WhatsApp Web
+![WhatsApp](screenshots/whatsapp.png)
+
+### YouTube Automation
+![YouTube](screenshots/youtube.png)
+
+### Music Playback
+![Music](screenshots/music.png)
 
 ## 👩‍💻 Author
 Drithi
