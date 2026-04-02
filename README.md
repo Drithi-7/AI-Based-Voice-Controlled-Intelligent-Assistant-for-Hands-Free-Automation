@@ -25,10 +25,8 @@ This project is a voice-controlled AI assistant that enables hands-free interact
 - Multilingual support
 - Advanced AI models
 - Mobile integration
+  
 ## 📸 Screenshots
-
-### Excel Opening
-![Excel](screenshots/excel.png)
 
 ### PowerPoint Opening
 ![PowerPoint](screenshots/powerpoint.png)
